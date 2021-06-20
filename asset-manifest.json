@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nameinator/static/css/main.220523bf.chunk.css",
+    "main.js": "/nameinator/static/js/main.9a0380e7.chunk.js",
+    "main.js.map": "/nameinator/static/js/main.9a0380e7.chunk.js.map",
+    "runtime-main.js": "/nameinator/static/js/runtime-main.43c1b9ff.js",
+    "runtime-main.js.map": "/nameinator/static/js/runtime-main.43c1b9ff.js.map",
+    "static/js/2.2dddd115.chunk.js": "/nameinator/static/js/2.2dddd115.chunk.js",
+    "static/js/2.2dddd115.chunk.js.map": "/nameinator/static/js/2.2dddd115.chunk.js.map",
+    "static/js/3.986e6fa0.chunk.js": "/nameinator/static/js/3.986e6fa0.chunk.js",
+    "static/js/3.986e6fa0.chunk.js.map": "/nameinator/static/js/3.986e6fa0.chunk.js.map",
+    "index.html": "/nameinator/index.html",
+    "static/css/main.220523bf.chunk.css.map": "/nameinator/static/css/main.220523bf.chunk.css.map",
+    "static/js/2.2dddd115.chunk.js.LICENSE.txt": "/nameinator/static/js/2.2dddd115.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43c1b9ff.js",
+    "static/js/2.2dddd115.chunk.js",
+    "static/css/main.220523bf.chunk.css",
+    "static/js/main.9a0380e7.chunk.js"
+  ]
+}
